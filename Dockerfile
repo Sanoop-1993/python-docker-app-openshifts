@@ -1,7 +1,7 @@
 # Use an official Python runtime as a parent image
 FROM python:latest
 
-MAINTAINER SANOOP V
+MAINTAINER MANIVANNAN.C
 
 # Set the working directory to /app
 WORKDIR /app
